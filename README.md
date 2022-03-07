@@ -16,7 +16,6 @@ USAGE:
              sudo apt install python3-pip 
 ```
 And your program will run without any error.
-
 IMPORTANT NOTE: The first mail on the receiver e-mail will be empty. Ignore it, the second mail will come after 30 seconds and will contain the keylogs of the target machine.
                             
                             
